@@ -50,6 +50,7 @@ collections:
       - {name: hours, label: Hours, widget: list, fields: [{name: hoursItem}]}
       - {name: contactPhoneNumber, label: Contact Phone Number}
       - {name: contactEmail, label: Contact Email}
+      - {name: mdEd, label: Markdown, widget: markdown}
   - name: pages
     label: Pages
     files:
