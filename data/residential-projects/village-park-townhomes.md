@@ -1,5 +1,5 @@
 ---
-title: Village Park Townhomes
+title: VillagePark Townhomes
 featuredImage: /assets/uploads/villagepar2-town-thumb.jpg
 logoImage: /assets/uploads/village-park-townhomes.jpg
 location: Village Parkway & Hwy 7 East
