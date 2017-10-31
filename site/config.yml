@@ -6,6 +6,13 @@ media_folder: "site/assets/uploads"
 public_folder: "/assets/uploads"
 
 collections:
+  - name: markdownPost
+    label: Markdown Post
+    folder: "data/markdown-post"
+    create: true
+    fields:
+      - {name: title, label: Title}
+      - {name: body, label: Body, widget: markdown}
   - name: residentialProject
     label: Residential Project
     folder: "data/residential-projects"
